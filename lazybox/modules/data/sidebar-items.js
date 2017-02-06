@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DataModule",""]],"trait":[["DataComponent",""]]});
